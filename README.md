@@ -1,0 +1,1 @@
+A simple smtp client interface.
